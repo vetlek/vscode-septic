@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.29.3](https://github.com/vetlek/vscode-septic/compare/septic-config-v1.29.2...septic-config-v1.29.3) (2026-01-16)
+
+
+### 🐛 Bug Fixes
+
+* add comment back ([c37a3e7](https://github.com/vetlek/vscode-septic/commit/c37a3e7beb2dd61707524459927f9d407b80eb55))
+
 ## [1.29.2](https://github.com/vetlek/vscode-septic/compare/septic-config-v1.29.1...septic-config-v1.29.2) (2026-01-16)
 
 
