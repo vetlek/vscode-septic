@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.29.4](https://github.com/vetlek/vscode-septic/compare/septic-config-v1.29.3...septic-config-v1.29.4) (2026-01-16)
+
+
+### 🧹 Chores
+
+* remove comments ([b65bbd1](https://github.com/vetlek/vscode-septic/commit/b65bbd122225ab13c7482da7259d9fa65875ff5e))
+
 ## [1.29.3](https://github.com/vetlek/vscode-septic/compare/septic-config-v1.29.2...septic-config-v1.29.3) (2026-01-16)
 
 
