@@ -43,8 +43,6 @@ import {
 import { getIgnorePatterns, getIgnoredCodes } from "./ignorePath";
 import { ContextManager } from "./contextManager";
 
-// Create a connection for the server, using Node's IPC as a transport.
-// Also include all preview / proposed LSP features.
 const connection = createConnection(ProposedFeatures.all);
 
 // Create a simple text document manager.
