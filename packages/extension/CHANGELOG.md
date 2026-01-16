@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.29.2](https://github.com/vetlek/vscode-septic/compare/septic-config-v1.29.1...septic-config-v1.29.2) (2026-01-16)
+
+
+### 🧹 Chores
+
+* release septic-config 1.29.1 ([#865](https://github.com/vetlek/vscode-septic/issues/865)) ([9c79645](https://github.com/vetlek/vscode-septic/commit/9c796457231544978553b125665c5e7ca66d8594))
+
+
+### 🐛 Bug Fixes
+
+* document stuff ([c4ef68f](https://github.com/vetlek/vscode-septic/commit/c4ef68ffa0b2cb8b0353ca38786360035125e473))
+* fix stuff ([f2009f4](https://github.com/vetlek/vscode-septic/commit/f2009f4044e802412f4f033753770444f6b6f658))
+
+
+### 🔨 Refactor
+
+* create dedicated package for septic parsing ([#869](https://github.com/vetlek/vscode-septic/issues/869)) ([2a4ff5b](https://github.com/vetlek/vscode-septic/commit/2a4ff5bd4d0f3a77f5232fcf3751aa3f5eb8e0bb))
+
 ## [1.29.1](https://github.com/equinor/vscode-septic/compare/septic-config-v1.29.0...septic-config-v1.29.1) (2026-01-15)
 
 
