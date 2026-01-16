@@ -24,8 +24,8 @@ jobs:
           echo "Release outputs:"
           echo '${{ toJSON(steps.release.outputs) }}' | jq '.' || echo '${{ toJSON(steps.release.outputs) }}'
     outputs:
-      extension_release_created: ${{ steps.release.outputs['septic-config--release_created'] }}
-      lib_release_created: ${{ steps.release.outputs['@equinor/septic-config-lib--release_created'] }}
+      extension_release_created: ${{ steps.release.outputs['packages/extension--release_created'] }}
+      lib_release_created: ${{ steps.release.outputs['packages/septic--release_created'] }}
   publish_extension:
     name: "Publish Extension"
     if: ${{ needs.release_please.outputs.extension_release_created == 'true' }}
